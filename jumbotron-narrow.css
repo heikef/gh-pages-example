@@ -32,6 +32,7 @@ body {
 }
 
 /* Customize container */
+/* change here page width */
 @media (min-width: 768px) {
   .container {
     max-width: 730px;
