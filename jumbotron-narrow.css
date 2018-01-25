@@ -35,7 +35,7 @@ body {
 /* change here page width */
 @media (min-width: 768px) {
   .container {
-    max-width: 790px;
+    max-width: 810px;
   }
 }
 .container-narrow > hr {
